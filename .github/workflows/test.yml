@@ -1,7 +1,7 @@
 name: Test
 on:
-pull_request:
-    branches: [ main ]
+    pull_request:
+        branches: [ main ]
 # top-level call-out of the different tasks within the workflow
 jobs:
 # job id
